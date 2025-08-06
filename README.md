@@ -1,12 +1,50 @@
-# React + Vite
+## 🎨 React UI Implementation – Task 2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
+This project is a React.js implementation of the Figma design: https://www.figma.com/design/o7g3wg6X7uffbc83Wm0pj1/Task-2?node-id=0-1&t=ob46TEw7aNxdKjTR-0
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Pixel-perfect UI based on the Figma design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fully responsive layout (mobile, tablet, desktop)
 
-## Expanding the ESLint configuration
+- Modular and reusable React components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Clean file structure
+
+- Easy to scale and maintain
+
+- Optional: API integration and routing support
+
+
+
+## 🧰 Tech Stack
+
+- React.js
+
+- JavaScript 
+
+- CSS / Tailwind CSS 
+
+- React Router for page navigation
+
+
+```
+# Clone the repository
+git clone <https://github.com/ikrar24/Hivry-assigments>
+
+cd <project-folder>
+
+# Install dependencies
+npm install
+# or
+yarn install
+```
+
+```
+# Start the development server
+npm start
+# or
+yarn start
+
+```
