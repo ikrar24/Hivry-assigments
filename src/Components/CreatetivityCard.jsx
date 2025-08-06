@@ -33,7 +33,7 @@ function CreatetivityCard({
         </p>
 
 
-<div className="flex bg-black p-2 items-center justify-center mt-2 bg text-[rgba(255,211,0,1)]    gap-2  w-full  ">
+<div className="flex  p-2 items-center justify-center mt-2 bg text-[rgba(255,211,0,1)]    gap-2  w-full  ">
 
 <div className=" bg-transparent border flex items-center justify-center text-sm p-2 rounded-lg gap-3 " >
 
