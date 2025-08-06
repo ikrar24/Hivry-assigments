@@ -31,11 +31,9 @@ function CreatetivityCard({
           {para}
           <span className=" text-[rgba(255,211,0,1)]  "> {spanPara}</span>
         </p>
-      </div>
 
 
-
-      <div className="flex items-center justify-center mt-2 bg text-[rgba(255,211,0,1)]    gap-2  w-full  ">
+<div className="flex bg-black p-2 items-center justify-center mt-2 bg text-[rgba(255,211,0,1)]    gap-2  w-full  ">
 
 <div className=" bg-transparent border flex items-center justify-center text-sm p-2 rounded-lg gap-3 " >
 
@@ -48,6 +46,13 @@ function CreatetivityCard({
 
       </div>
       </div>
+
+
+      </div>
+
+
+
+      
 </section>
 
 

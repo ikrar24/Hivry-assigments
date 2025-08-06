@@ -31,16 +31,16 @@ function CreativityProps() {
 
  <CreatetivityCard videosSrc={CreativityVideo1}
 para={"Make more Videos faster, with high quality"} 
-spanPara={"AI Avatars"} />
+spanPara={"AI Avatars"} buttonText={"Explore More"} />
 
         
  <CreatetivityCard videosSrc={CreativityVideo2}
 para={"Make more Videos faster, with high quality"} 
-spanPara={"AI Avatars"} />
+spanPara={"AI Avatars"} buttonText={"Explore More"} />
 
  <CreatetivityCard videosSrc={CreativityVideo3}
 para={"Make more Videos faster, with high quality"} 
-spanPara={"AI Avatars"} />
+spanPara={"AI Avatars"}  buttonText={"Explore More"} />
 
 
 

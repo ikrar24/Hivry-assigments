@@ -10,7 +10,7 @@ function CustomAi() {
   return (
     <section className=" mt-10 flex items-center justify-center flex-col ">
       <div className=" flex items-center justify-center flex-col ">
-        <h4 className=" uppercase font-bold text-white text-2xl   ">
+        <h4 className=" uppercase font-bold text-white text-2xl text-center  ">
           Crate custom{" "}
           <span className="text-[rgba(255,211,0,1)]  "> al - avatars </span>
         </h4>
