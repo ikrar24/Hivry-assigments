@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { lazy } from 'react'
 
 function VideosCard({videosSrc , className, videoClassName}) {
   return (
@@ -10,6 +10,7 @@ function VideosCard({videosSrc , className, videoClassName}) {
           src={videosSrc}
           className={`w-full h-full object-cover rounded-3xl ${videoClassName} `}
           autoPlay
+          onLoad={lazy}
           loop
           muted
         ></video>
